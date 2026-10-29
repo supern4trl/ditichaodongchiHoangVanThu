@@ -1,0 +1,16 @@
+[
+    {
+        "id": "nhaluuniem",
+        "name": "Nhà lưu niệm đồng chí Hoàng Văn Thụ",
+        "description": "Hành trình về nguồn, khám phá dấu ấn lịch sử tại Nhà lưu niệm đồng chí Hoàng Văn Thụ.",
+        "url": "tour.html",
+        "thumbnail": "images/nhaluuniem.jpg"
+    },
+    {
+        "id": "nhasan",
+        "name": "Nhà sàn đồng chí Hoàng Văn Thụ",
+        "description": "Di tích lịch sử và hoạt động Cách mạng của đồng Chí Hoàng Văn Thụ.",
+        "url": "nhasan.html",
+        "thumbnail": "images/nhasan.jpg"
+    }
+]
